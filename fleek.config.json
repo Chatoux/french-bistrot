@@ -1,0 +1,9 @@
+{
+  "sites": [
+    {
+      "slug": "tinkling-piano-howling",
+      "distDir": "out",
+      "buildCommand": "npm run build"
+    }
+  ]
+}
